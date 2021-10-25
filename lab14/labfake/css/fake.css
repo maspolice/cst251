@@ -1,0 +1,32 @@
+body {
+ background-image: url("../img/stockholm.jpg");
+ background-size: cover;
+
+}
+
+.logo {
+  
+  font-size: 100px;
+  position: absolute;
+  top: 200px;
+  left: 150px;
+  font-family: 'Impact', fantasy;
+}
+
+p {
+  font-size: 20px;
+  color: white;
+  width: 500px;
+  position: absolute;
+  top: 400px;
+  left: 100px;
+}
+
+
+#t2 {
+  font-size: 15px;
+  float: right;
+}
+
+
+
